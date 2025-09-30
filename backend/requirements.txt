@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+elasticsearch>=8.0.0
+google-cloud-aiplatform
+google-auth
+requests
+python-dotenv
+pydantic
+tqdm
